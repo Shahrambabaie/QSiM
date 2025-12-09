@@ -68,12 +68,13 @@ Generates a histogram of measurement outcomes.
 
 ## 📁 Project Structure
 QSiM/
-│── QSim.py # Main simulator file
-│── Examples # Notebook to demonstrate implementedcircuits
-│ ├── ... # Quantum Circuits, execution results, histograms, and etc.
-│── images/
-│ ├── ... # Circuit plots, histograms, etc.
-│── README.md # Project documentation
+│── QSim.py           # Main simulator file
+│── Examples/         # Notebook demonstrating implemented circuits
+│   └── ...           # Quantum circuits, execution results, histograms, and etc.
+│── images/           # Quantum circuits, histograms, visualizations
+│   └── ...           
+│── README.md         # Project documentation
+│── LICENSE           # MIT License
 
 
 ---
