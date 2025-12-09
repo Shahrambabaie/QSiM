@@ -66,10 +66,9 @@ Generates a histogram of measurement outcomes.
 
 ---
 
-```markdown
+```
 ## 📁 Project Structure
 
-```
 
 QSiM/
 │── QSim.py          # Main simulator file
