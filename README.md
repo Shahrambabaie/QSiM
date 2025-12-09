@@ -66,7 +66,11 @@ Generates a histogram of measurement outcomes.
 
 ---
 
-## 📁 `Project Structure`
+```markdown
+## 📁 Project Structure
+
+```plaintext
+
 QSiM/
 │── QSim.py          # Main simulator file
 │── Examples/        # Notebook demonstrating implemented circuits
