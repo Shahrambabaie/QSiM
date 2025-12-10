@@ -1,4 +1,4 @@
-# 🧮 QSiM: Quantum Simulator
+# ⚛️ QSiM: Quantum Simulator
 *A lightweight NumPy-based quantum circuit simulator inspired by Qiskit.*
 
 ![QSiM Example](images/top.png)
